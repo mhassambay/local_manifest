@@ -10,5 +10,6 @@
 
     <!-- Vendor folders -->
     <project path="vendor/xiaomi/" name="alecchangod/android_vendor_xiaomi" revision="lineage-21-reb" remote="github" />
+    <project path="hardware/xiaomi/" name="Evolution-X-Devices/hardware_xiaomi" revision="udc" remote="github" />
 
 </manifest>
