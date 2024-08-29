@@ -11,6 +11,6 @@
     <!-- Vendor folders -->
     <project path="vendor/xiaomi/" name="alecchangod/android_vendor_xiaomi" revision="lineage-21-reb" remote="github" />
     <project path="hardware/xiaomi/" name="Evolution-X-Devices/hardware_xiaomi" revision="udc" remote="github" />
-    <project path="prebuilts/clang/host/linux-x86/clang-lolz" name="Jprimero15/lolz-clang" revision="main" remote="gitlab" clone-depth="1"/>
+    <project path="prebuilts/clang/host/linux-x86/clang-lolz" name="Jprimero15/lolz_clang" revision="main" remote="gitlab" clone-depth="1"/>
 
 </manifest>
