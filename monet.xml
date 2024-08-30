@@ -13,6 +13,6 @@
     <project path="vendor/xiaomi/" name="alecchangod/android_vendor_xiaomi" revision="lineage-21-reb" remote="github" />
     <project path="vendor/xiaomi-firmware/monet/" name="alecchangod/vendor_xiaomi-firmware_monet" revision="main" remote="gitlab" />
     <project path="hardware/xiaomi/" name="Evolution-X-Devices/hardware_xiaomi" revision="udc" remote="github" />
-    <project path="prebuilts/clang/host/linux-x86/clang-latest" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r510928" revision="14.0" remote="gitlab" />
+    <!-- <project path="prebuilts/clang/host/linux-x86/clang-latest" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r510928" revision="14.0" remote="gitlab" /> -->
 
 </manifest>
